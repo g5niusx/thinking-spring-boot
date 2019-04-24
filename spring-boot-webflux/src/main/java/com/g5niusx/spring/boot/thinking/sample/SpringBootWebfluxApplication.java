@@ -16,6 +16,7 @@ import org.springframework.web.reactive.function.server.ServerResponse;
 
 @SpringBootApplication
 @Slf4j
+// 开启 webflux
 @EnableWebFlux
 public class SpringBootWebfluxApplication {
 
